@@ -1,0 +1,9 @@
+Files
+
+
+CTRL-x CTRL-v
+  read a different file into emacs, replacing the current buffer
+CTRL-x CTRL-f
+read a different file into emacs and put it into another buffer
+CTRL-x i
+insert contents of another file into this buffer
